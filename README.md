@@ -4,7 +4,7 @@ I am a passionate Frontend Developer who excels at creating user-friendly web ex
 
 Outside of work, I have a deep passion for photography, which I pursue as a hobby. It allows me to explore my creative side and capture captivating moments through the lens.
 
-Follow me on my Social Media
+Feel free to connect with me on social media.
 <div id="badges">
   <a href="https://www.linkedin.com/in/iswanjumat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
