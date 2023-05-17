@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a passionate Frontend Developer who loves crafting user-friendly web experiences. With a strong focus on learning and staying up-to-date with the latest technologies, I'm always seeking new ways to architect frontend systems for maintainability and top-notch performance. Let's push boundaries and create exceptional digital solutions together! Feel free to explore my projects and reach out for exciting collaborations. Happy coding! 🚀
+
 <!--
 **iswanj/iswanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
