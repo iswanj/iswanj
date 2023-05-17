@@ -1,8 +1,21 @@
-![Untitled design](https://github.com/iswanj/iswanj/assets/7093947/f6312cec-63f4-4c74-84e7-03952e5829ae)
+### Hi there 👋 I'm Iswan
 
-### Hi there 👋
+I am a passionate Frontend Developer who excels at creating user-friendly web experiences. With a strong commitment to continuous learning and staying updated with the latest technologies, I strive to architect frontend systems that prioritize maintainability and deliver exceptional performance. Currently, I hold the position of Lead Front-end Developer at CIMB bank (via Avensys Consulting). Prior to that, I worked as a Freelance Lead Front-end Developer with Toptal. I have been actively engaged in web development professionally since 2012, with a focus on modern frontend development using React since 2015.
 
-I'm a passionate Frontend Developer who loves crafting user-friendly web experiences. With a strong focus on learning and staying up-to-date with the latest technologies, I'm always seeking new ways to architect frontend systems for maintainability and top-notch performance. Let's push boundaries and create exceptional digital solutions together! Feel free to explore my projects and reach out for exciting collaborations. Happy coding! 🚀
+Outside of work, I have a deep passion for photography, which I pursue as a hobby. It allows me to explore my creative side and capture captivating moments through the lens.
+
+Follow me on my Social Media
+<div id="badges">
+  <a href="https://www.linkedin.com/in/iswanjumat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/iswanjumat" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.twitter.com/TuanIswan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### Languages and Tools:
 
